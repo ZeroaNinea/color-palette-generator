@@ -1,6 +1,6 @@
 # Color Palette Generator
 
-Generates CSS files for websites.
+Generates color themes in CSS files for websites.
 
 Simply:
 
