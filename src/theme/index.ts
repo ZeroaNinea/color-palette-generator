@@ -54,6 +54,7 @@ export default function createTheme(
       errorContainer: palettes.error["100"],
       onErrorContainer: palettes.error["50"],
       errorBorder: palettes.error["500"],
+      neutralShadow: palettes.neutral["100"],
 
       logoPrimary: palettes.primary["900"],
       logoSecondary: palettes.secondary["300"],
@@ -99,6 +100,7 @@ export default function createTheme(
       errorContainer: palettes.error["900"],
       onErrorContainer: palettes.error["50"],
       errorBorder: palettes.error["400"],
+      neutralShadow: palettes.neutral["100"],
 
       logoPrimary: palettes.primary["50"],
       logoSecondary: palettes.secondary["200"],
