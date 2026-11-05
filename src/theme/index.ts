@@ -90,7 +90,7 @@ export default function createTheme(
       accentHover: palettes.secondary["300"],
       accentActive: palettes.secondary["200"],
       primaryTitle: palettes.primary["100"],
-      primaryContainer: palettes.primary["200"],
+      primaryContainer: palettes.primary["100"],
       primaryContainerHover: palettes.primary["700"],
       primaryOnContainer: palettes.primary["100"],
       primaryContainerFilled: palettes.primary["700"],
